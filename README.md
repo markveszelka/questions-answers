@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/nagmil2077/stackoverflow-tw">
+  <a href="https://github.com/markveszelka/questions-answers.git">
     <img src="images/logo.png" alt="Logo" width="20%" height="20%">
   </a>
 
@@ -11,7 +11,7 @@
   <p align="center">
     This is a study project! - Teamwork
     <br />
-    <a href="https://github.com/nagmil2077/stackoverflow-tw"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/markveszelka/questions-answers.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -22,7 +22,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/nagmil2077/stackoverflow-tw)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/markveszelka/questions-answers.git)
 
 This project was created for educational purposes. 
 It contains two projects, one for the frontend and one for the backend. 
@@ -67,7 +67,7 @@ You can clone the project and install it to see it in action.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/nagmil2077/stackoverflow-tw.git
+   git clone https://github.com/markveszelka/questions-answers.git
    ```
 2. Navigate to frontend folder and install NPM packages
    ```sh
@@ -107,7 +107,7 @@ This example uses the following open source libraries:
 Milan Nagy - [github](https://github.com/nagmil2077) - [linkedin](https://www.linkedin.com/in/milan-nagy-a76b1416a/) - corey321@gmail.com\
 Mark Veszelka - [github](https://github.com/markveszelka) - [linkedin](https://www.linkedin.com/in/mark-veszelka/) - mark.veszelka@gmail.com
 
-Project Link: [https://github.com/nagmil2077/stackoverflow-tw](https://github.com/nagmil2077/stackoverflow-tw)
+Project Link: [https://github.com/markveszelka/questions-answers.git](https://github.com/markveszelka/questions-answers.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
